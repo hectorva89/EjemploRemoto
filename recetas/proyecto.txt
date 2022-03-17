@@ -1,5 +1,4 @@
-. norma 
+1. norma 
 2. norma
 3. norma
 
-4. nomra 56
