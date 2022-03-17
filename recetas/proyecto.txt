@@ -1,1 +1,4 @@
-1. norma 1
+1. norma 
+2. norma2
+3. norma 3
+
